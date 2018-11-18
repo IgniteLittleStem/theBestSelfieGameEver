@@ -1,4 +1,10 @@
 
+All credit goes to Sean M. Tracey
+@seanmtracey
+Thank you for inspiring me at the works you do at IBM London Meetup
+
+
+
 ## Prerequisites
 
 To follow this workshop, you will need:
